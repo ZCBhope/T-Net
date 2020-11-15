@@ -1,2 +1,2 @@
-# Implementation for PESA-Net
+# Implementation for T-Net
 Code coming soon.
