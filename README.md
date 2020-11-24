@@ -8,5 +8,5 @@ We evaluate the performance of T-Net and compare it with recent state-of-the-art
 
 
 <div align=center><img src=https://github.com/ZCBhope/T-Net/blob/main/Table.png width="804" height="401" ></div>
-Performance comparison for camera pose estimation on YFCC100M and SUN3D datasets. Results **with** / **without** RANSAC post-processing are reported. 
+Performance comparison for camera pose estimation on YFCC100M and SUN3D datasets. Results with/without RANSAC post-processing are reported. 
 
